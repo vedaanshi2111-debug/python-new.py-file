@@ -1,0 +1,14 @@
+print("HELLO WORLD")
+HELLO WORLD
+Addition 3+4
+SyntaxError: invalid syntax
+3+4
+7
+2-9
+-7
+2346+3456788
+3459134
+3*5
+15
+7/14
+0.5

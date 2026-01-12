@@ -12,3 +12,8 @@ SyntaxError: invalid syntax
 15
 7/14
 0.5
+name = "vedaanshi verma"
+age = 23
+
+print = ("My name is", name, "I am",
+          age,"year old")
